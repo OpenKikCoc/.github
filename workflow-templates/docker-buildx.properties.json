@@ -1,0 +1,11 @@
+{
+    "name": "OpenKikCoc Organization Workflow for [Docker Buildx]",
+    "description": "OpenKikCoc Organization CI workflow template for [Docker Buildx]",
+    "iconName": "kik",
+    "categories": [
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "Dockerfile"
+    ]
+}
